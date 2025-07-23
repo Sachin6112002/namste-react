@@ -1,0 +1,28 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sachin6112002/namste-react.git"
+  },
+  "author": "Sachin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sachin6112002/namste-react/issues"
+  },
+  "homepage": "https://github.com/Sachin6112002/namste-react#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserlist" : [
+    "last 2 version"
+  ]
+}
